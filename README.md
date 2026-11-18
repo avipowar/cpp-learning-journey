@@ -13,3 +13,7 @@ My first C++ program.
 ## Even Integer Flowchart
 
 ![Even Integer Flowchart](./images/even-integer.png)
+
+## Prime Number Flowchart
+
+![Prime Number Flowchart](./images/prime-number.png)
