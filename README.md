@@ -17,3 +17,7 @@ My first C++ program.
 ## Prime Number Flowchart
 
 ![Prime Number Flowchart](./images/prime-number.png)
+
+## Triangle Classification Flowchart
+
+![Triangle Classification Flowchart](./images/triangle-classification.png)
