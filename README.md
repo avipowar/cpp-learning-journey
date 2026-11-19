@@ -21,3 +21,7 @@ My first C++ program.
 ## Triangle Classification Flowchart
 
 ![Triangle Classification Flowchart](./images/triangle-classification.png)
+
+## Sum of Even Numbers Flowchart
+
+![Sum of Even Numbers Flowchart](./images/sum-even-numbers.png)
