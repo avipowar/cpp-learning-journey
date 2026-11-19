@@ -29,3 +29,7 @@ My first C++ program.
 ## GCD Flowchart
 
 ![GCD Flowchart](./images/gcd.png)
+
+## Prime Number Flowchart
+
+![Prime Number Flowchart](./images/prime-number-2.png)
