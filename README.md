@@ -25,3 +25,7 @@ My first C++ program.
 ## Sum of Even Numbers Flowchart
 
 ![Sum of Even Numbers Flowchart](./images/sum-even-numbers.png)
+
+## GCD Flowchart
+
+![GCD Flowchart](./images/gcd.png)
