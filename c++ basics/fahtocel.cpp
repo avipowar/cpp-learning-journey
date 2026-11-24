@@ -7,5 +7,5 @@ int main() {
     cin >> f;
 
     int c = (5 * (f-32))/ 9;
-    cout << "Fah Value :" <<  c << endl;
+    cout << "Fhantie Value :" <<  c << endl;
 }
